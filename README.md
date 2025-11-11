@@ -1,7 +1,5 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/hi-diony/hi-diony/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![Jiyeonpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-diony&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-diony&layout=compact)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
